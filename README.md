@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chimebuka but you can call me Buka
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web development and getting my associate degree in web development. In the future I plan on expanding my knowledge and education to be a software dev
+- 🌱 I’m currently learning web development and getting my associate degree in web development. In the future I plan on expanding my knowledge and education to be a software developer
 - � I’m looking into getting an internship or entry-level job after I graduate
 - 📫 How to reach me would be by my email at cchinatu@gmail.com
 
